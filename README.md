@@ -28,5 +28,3 @@
 - 請說明 `position: static`, `position: absolute`, `position: relative` 與 `position: fixed` 之間的差異。
 
 ### 其他
-
-
