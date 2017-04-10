@@ -11,7 +11,7 @@
 
 - 什麼是`IIFE`(立即函式)，使用`IIFE`的優點與缺點是什麼，請實作一個`IIFE`？
 
-- 什麼是`Module  Pattern`? 它的優點與缺點是什麼？請實作一個 `Module Patter`。
+- 什麼是`Module  Pattern`? 它的優點與缺點是什麼？請實作一個 `Module Pattern`。
 
 - 把 JavaScript 放在 HTML 頁面結尾, `body tag` 結束前的原因與優點是什麼？
 
